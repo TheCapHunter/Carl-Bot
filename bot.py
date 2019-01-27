@@ -238,5 +238,5 @@ class CarlBot(commands.Bot):
 
 
 if __name__ == '__main__':
-    carlbot = CarlBot()
-    carlbot.run()
+    Mateo2 = Mateo2()
+    Mateo2.run()
